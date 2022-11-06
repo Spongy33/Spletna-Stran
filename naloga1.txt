@@ -1,0 +1,3 @@
+* eadb76d (HEAD -> master, origin/master, blabla) Hotfix
+* dcc7ae4 (featureA) Slovenia
+* bc6e747 Friv
